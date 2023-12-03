@@ -1,0 +1,9 @@
+# 老師的github帳號 miscoder001
+miscoder001/getStock2
+# user agent string list
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+
+
+#main-1-ClassQuotesTable-Proxy > div > div.Pos\(r\).Ov\(h\).ClassQuotesTable > div.table-header.Ovx\(s\).Ovy\(h\).W\(100\%\) > div
+
+#main-1-ClassQuotesTable-Proxy > div > div.Pos\(r\).Ov\(h\).ClassQuotesTable > div.table-header.Ovx\(s\).Ovy\(h\).W\(100\%\) > div
